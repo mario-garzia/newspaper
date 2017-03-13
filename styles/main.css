@@ -1,0 +1,28 @@
+header {
+	font-family: verdana;
+	font-size: 80px;
+	text-transform: uppercase;
+}
+img {
+	width: 100%;
+	padding: 8px 0 8px 0;
+	
+}
+.content {
+	column-count: 3;
+	font-family: verdana;
+	padding: 20px 0;
+	text-align: justify;
+}
+.head {
+	font-family: verdana;
+	text-align: center;
+	position: relative;
+
+}
+.subhead {
+	border-bottom: 2px solid #000;
+	border-top: 2px solid #000;
+	padding: 12px 0 12px 0;
+	text-transform: uppercase;
+}
